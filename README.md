@@ -5,7 +5,7 @@ Fundamental IT - SMART HOME DIN LEGO
 |**Rol**|**Nume**|  **Responsabilități**|
 | :------------- | :-------------: |:------------- |
 |Coordonator| [Igor] |Gestiune generală, verificare finală
-Arhitect / Design |[Mariana/Marian] |Machetă fizică, alegere culori
+Arhitect / Design |[Mariana/Maria] |Machetă fizică, alegere culori
 Analist| [Igor] |Date, proiecții, corelări
 Tester| [Valentin] |Scenarii de testare
 Prezentator principal |[Natalia/Valentin] |Introducere și concluzii
