@@ -4,12 +4,12 @@ Fundamental IT - SMART HOME DIN LEGO
 ## 🔄 Distribuirea Rolurilor (Exemplu)
 |**Rol**|**Nume**|  **Responsabilități**|
 | :------------- | :-------------: |:------------- |
-|Coordonator| [Nume] |Gestiune generală, verificare finală
-Arhitect / Design |[Nume] |Machetă fizică, alegere culori
-Analist| [Nume] |Date, proiecții, corelări
-Tester| [Nume] |Scenarii de testare
-Prezentator principal |[Nume] |Introducere și concluzii
-Suport/ajutor| [Nume]| Ajută în toate etapele
+|Coordonator| [Igor] |Gestiune generală, verificare finală
+Arhitect / Design |[Mariana/Valentin] |Machetă fizică, alegere culori
+Analist| [Igor] |Date, proiecții, corelări
+Tester| [Valentin] |Scenarii de testare
+Prezentator principal |[Natalia/Valentin] |Introducere și concluzii
+Suport/ajutor| [Igor/ ?]| Ajută în toate etapele
 
 
 # 📅 PLAN DE ACȚIUNI – SMART HOME DIN LEGO
