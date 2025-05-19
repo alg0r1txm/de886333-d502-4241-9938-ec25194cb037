@@ -9,7 +9,7 @@ Arhitect / Design |[Mariana/Maria] |Machetă fizică, alegere culori
 Analist| [Igor] |Date, proiecții, corelări
 Tester| [Valentin] |Scenarii de testare
 Prezentator principal |[Natalia/Valentin] |Introducere și concluzii
-Suport/ajutor| [Igor/ ?]| Ajută în toate etapele
+Suport/ajutor| [Igor/Natalia]| Ajută în toate etapele
 
 
 # 📅 PLAN DE ACȚIUNI – SMART HOME DIN LEGO
